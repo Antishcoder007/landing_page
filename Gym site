@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TC Gym - Fitness Center</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="logo">
+		<h1 class="head">TC GYM</h1>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Classes</a></li>
+                <li><a href="#">Pricing</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+	</div>
+    <section class="hero">
+        <h1>Wellcome to <b>TC GYM</b></h1>
+        <p>Your destination for fitness and wellness.</p>
+        <a href="#" class="cta-button">Get Started</a>
+    </section>
+		<h2>Our Services</h2>
+        <div class="service-card">
+		
+		</div>
+		<h3>Personal Training</h3>
+        <p>One-on-one sessions with certified trainers.</p>	
+    <footer>
+        <p>&copy; 2023 TC GYM. All rights reserved.</p>
+		<p><a href="#"><b>CONTACT US</b></a></p>
+    </footer>
+</body>
+</html>
+
