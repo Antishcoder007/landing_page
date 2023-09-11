@@ -6,7 +6,7 @@
 }
 
 .logo {
-	width:85 %;
+	width:85%;
 	margin:auto;
 	display: flex;
 	padding:17px 10px;
@@ -111,5 +111,5 @@ footer a{
 	
 	35%{background-image:url('https://images.pexels.com/photos/4058411/pexels-photo-4058411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');}
 	
-	75%{background-image:url:('https://images.pexels.com/photos/6922165/pexels-photo-6922165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');}
+	75%{background-image:url('https://images.pexels.com/photos/6922165/pexels-photo-6922165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');}
 	}
